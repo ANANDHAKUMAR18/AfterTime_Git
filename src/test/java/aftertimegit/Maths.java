@@ -22,6 +22,9 @@ public class Maths {
 	public void Woww{
 	System.out.println("Hello Dude");
 	}
+	public void RC{
+	System.out.println("Hello Dude");
+	}
 	
 
 	
@@ -35,6 +38,7 @@ public class Maths {
     obj.sub(3,0);
     obj.mul(3,0);
     obj.Woww();
+    obj.RC();
 
 	}
 	
