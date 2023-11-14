@@ -19,6 +19,10 @@ public class Maths {
 	System.out.println("Mul of two numbers =" + result);
 	}
 	
+	public void Wow(){
+		System.out.println("Hello Dude");
+		}
+	
 	
 
 	
@@ -31,6 +35,7 @@ public class Maths {
     obj.add(3,0);
     obj.sub(3,0);
 	obj.mul(3,0);
+	obj.Wow();
 
 	}
 	
