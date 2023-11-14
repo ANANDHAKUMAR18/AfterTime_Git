@@ -38,9 +38,17 @@ public class Maths {
 	public void Cute(){
 	System.out.println("Hello Dude");
 	}
+
 	public void Love(){
 	System.out.println("Hello Dude");
 	}
+
+	public void Lover(){
+		System.out.println("Hello Dude");
+		}
+		
+	
+
 	
 	
 	
@@ -61,7 +69,11 @@ public class Maths {
     obj.RC2();
     obj.Super();
     obj.Cute();
+
     obj.Love();
+
+    obj.Lover();
+
     
 
 
