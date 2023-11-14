@@ -25,6 +25,11 @@ public class Maths {
 	public void RC{
 	System.out.println("Hello Dude");
 	}
+
+	public void RC1{
+	System.out.println("Hello Dude");
+	}
+	
 	
 
 	
@@ -39,6 +44,7 @@ public class Maths {
     obj.mul(3,0);
     obj.Woww();
     obj.RC();
+    obj.RC1();
 
 	}
 	
