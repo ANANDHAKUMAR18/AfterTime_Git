@@ -35,6 +35,9 @@ public class Maths {
 	public void Super(){
 	System.out.println("Hello Dude");
 	}
+	public void Cute(){
+	System.out.println("Hello Dude");
+	}
 	
 	
 	
@@ -55,6 +58,7 @@ public class Maths {
     obj.RC1();
     obj.RC2();
     obj.Super();
+    obj.Cute();
     
 
 
