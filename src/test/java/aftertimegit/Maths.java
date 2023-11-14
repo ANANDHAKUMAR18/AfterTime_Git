@@ -19,7 +19,7 @@ public class Maths {
 	System.out.println("Mul of two numbers =" + result);
 	}
 	
-	public void Woww{
+	public void Woww(){
 	System.out.println("Hello Dude");
 	}
 	public void RC(){
