@@ -32,6 +32,9 @@ public class Maths {
 	public void RC2{
 	System.out.println("Hello Dude");
 	}
+	public void Super{
+	System.out.println("Hello Dude");
+	}
 	
 	
 	
@@ -50,6 +53,7 @@ public class Maths {
     obj.RC();
     obj.RC1();
     obj.RC2();
+    obj.Super();
 
 
 	}
