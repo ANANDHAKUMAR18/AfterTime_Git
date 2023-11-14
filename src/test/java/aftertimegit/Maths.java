@@ -29,6 +29,10 @@ public class Maths {
 	public void RC1{
 	System.out.println("Hello Dude");
 	}
+	public void RC2{
+	System.out.println("Hello Dude");
+	}
+	
 	
 	
 
@@ -45,6 +49,8 @@ public class Maths {
     obj.Woww();
     obj.RC();
     obj.RC1();
+    obj.RC2();
+
 
 	}
 	
