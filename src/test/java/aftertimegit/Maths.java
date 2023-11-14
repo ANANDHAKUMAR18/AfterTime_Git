@@ -22,17 +22,17 @@ public class Maths {
 	public void Woww{
 	System.out.println("Hello Dude");
 	}
-	public void RC{
+	public void RC(){
 	System.out.println("Hello Dude");
 	}
 
-	public void RC1{
+	public void RC1(){
 	System.out.println("Hello Dude");
 	}
-	public void RC2{
+	public void RC2(){
 	System.out.println("Hello Dude");
 	}
-	public void Super{
+	public void Super(){
 	System.out.println("Hello Dude");
 	}
 	
